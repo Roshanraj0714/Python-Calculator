@@ -49,3 +49,7 @@ Perfect for beginner to intermediate Python portfolios.
 📜 **License**
 
 This project is licensed under the MIT License — free to use and modify.
+
+🔎 Conclusion
+
+This project is a simple Python calculator that performs basic arithmetic and advanced operations like addition, subtraction, multiplication, division, modulus, exponentiation, and floor division. It is a beginner-friendly project to practice Python operators, conditional statements, and user input handling.
