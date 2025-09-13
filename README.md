@@ -4,7 +4,7 @@ A Simple Yet Powerful Command-Line Calculator Built with Python
 
 This project is a beginner-friendly Python Calculator implemented in both Jupyter Notebook and Python script format. It supports basic arithmetic operations with clean, easy-to-understand code — a perfect example of problem-solving, code structuring, and logical thinking.
 
-🚀 Features
+🚀 **Features**
 
 Handles basic math operations: +, -, *, /, %, **, //
 
@@ -16,7 +16,7 @@ Command-line based for fast execution
 
 Extensible code structure (easy to add more operations)
 
-🖥️ How It Works
+🖥️ **How It Works**
 
 Run the program (Notebook or Script).
 
@@ -31,7 +31,7 @@ Enter Operator (+,-,*,/,%,**,//): *
 Enter Second Number: 5  
 Result: 10 * 5 = 50
 
-🎯 Why This Project Matters
+🎯 **Why This Project Matters**
 
 Showcases Python fundamentals (functions, operators, input/output).
 
@@ -41,12 +41,11 @@ Reflects problem-solving and logical thinking — crucial for software roles.
 
 Perfect for beginner to intermediate Python portfolios.
 
-🔗 Run on Binder (Optional if you add badge)
 
-📸 Demo Screenshot
+📸 **Demo Screenshot**
 
-![alt text](image.jpg)
+![alt text](https://github.com/Roshanraj0714/Python-Calculator/blob/main/python_calculator_code.png)
 
-📜 License
+📜 **License**
 
 This project is licensed under the MIT License — free to use and modify.
